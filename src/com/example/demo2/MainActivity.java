@@ -20,7 +20,11 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
 import android.widget.Toast;
-
+/**
+ * 
+ * @author Gokee
+ *
+ */
 public class MainActivity extends Activity implements OnClickListener {
 
 	private AutoCompleteTextView mUrl;
