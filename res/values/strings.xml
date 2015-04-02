@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="url">URL</string>
+	<string name="back">BACK</string>
+	<string name="forward">FORWARD</string>
+	<string name="refresh">REFRESH</string>
+	<string name="home">HOME</string>
+</resources>
